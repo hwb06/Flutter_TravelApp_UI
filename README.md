@@ -1,16 +1,43 @@
-# flutter_travelapp_ui
+# Flutter_TravelApp_UI
+ 
+## **Project Description**
 
-A new Flutter project.
+♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ A clean and minimal travel app UI implementation built with Flutter. This project demonstrates modern mobile interface design patterns for a travel booking application.
 
-## Getting Started
+## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
+- **Welcome screen** with travel illustration
+- **Flight Search** interface
+- Destination **Browsing Screen**
+- Basic **Booking Form** layout
+- Work in progress **Profile Section**
 
-This project is a starting point for a Flutter application.
+  ## ♥ **Tᴇᴄʜɴɪᴄᴀʟ Oᴠᴇʀᴠɪᴇᴡ**:
+  - Built with Flutter
+  - Static UI implementation
+  - Material Design components
+  - Focused on UI/UX design patterns
+  - Demonstration of layout structuring
 
-A few resources to get you started if this is your first Flutter project:
+## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
+- 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- This is a UI-only implementation meant to showcase Flutter interface design capabilities. Perfect for learning Flutter UI development or as a starting point for a full-featured travel application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **App UIs Screenshots**
+Here are some screenshots of the app:
+
+![Welcome Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/WelcomeScreen.JPG?raw=true)  
+![Main Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/MainScreen.JPG?raw=true)  
+![Search Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/SearchScreen.JPG?raw=true)  
+![Profile Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/ProfileScreen.JPG?raw=true)  
+
+### **App Demo**
+You can download and view the demo video of the app here:
+
+[Flutter_TravelApp_UI Link](https://github.com/hwb06/Flutter_TravelApp_UI/releases/tag/v1.0.0)
+
+## **Contact Information**
+If you have any questions or feedback, feel free to reach out:
+
+- Email: hussnainwaheed864@gmail.com
+- GitHub: [@hwb06](https://github.com/hwb06)
