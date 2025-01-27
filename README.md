@@ -26,11 +26,10 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Welcome Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/WelcomeScreen.JPG?raw=true)  
-![Main Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/MainScreen.JPG?raw=true)  
-![Search Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/SearchScreen.JPG?raw=true)  
-![Profile Screen](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/ProfileScreen.JPG?raw=true)  
-
+![#01](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/01.png) 
+![#01](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/02.png) 
+![#01](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/App_UI_Screens/03.png) 
+ 
 ### **App Demo**
 You can download and view the demo video of the app here:
 
