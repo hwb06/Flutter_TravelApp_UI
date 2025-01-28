@@ -33,7 +33,7 @@ Here are some screenshots of the app:
 ### **App Demo**
 You can download and view the demo video of the app here:
 
-[Flutter_TravelApp_UI Link](https://github.com/hwb06/Flutter_TravelApp_UI/releases/tag/v1.0.0)
+[Flutter_TravelApp_UI Link](https://www.dropbox.com/scl/fi/z9hsg5ie2ygda5eg07biz/TravelApp-UI.mp4%20rlkey=p8j663fagj8sd6ln4998e4ngo&st=xlyb22u1&dl=0)
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
