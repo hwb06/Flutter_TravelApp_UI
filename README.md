@@ -26,9 +26,9 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![#01](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/assets/Project%20Showcase/01.png) 
-![#01](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/assets/Project%20Showcase/02.png) 
-![#01](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/assets/Project%20Showcase/03.png) 
+![#01](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/assets/Project%20Showcase/01.png) 
+![#01](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/assets/Project%20Showcase/02.png) 
+![#01](https://github.com/hwb06/Flutter_TravelApp_UI/blob/main/assets/Project%20Showcase/03.png) 
  
 ### **App Demo**
 You can download and view the demo video of the app here:
